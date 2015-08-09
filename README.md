@@ -1,1 +1,3 @@
-# html 
+# My first github repo
+
+This is just a quick repo to test using github for scaffolding website templates.  (yeoman seems to have a lot of overhead)
